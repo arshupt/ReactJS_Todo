@@ -1,3 +1,11 @@
 .todo__list{
     text-align: center;
 }
+.itemtext{
+    color: white;
+    font-size: 100px;
+}
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;}
+  }
